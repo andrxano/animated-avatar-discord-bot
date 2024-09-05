@@ -12,7 +12,7 @@ npm install
 
 **3. Set the bot**
 ```
-Place your GIF file to the "assets" folder
+Place your GIF file to the ./assets folder
 and don't forget to change the TOKEN with your discord bot token.
 ```
 
